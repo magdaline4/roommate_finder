@@ -1,0 +1,70 @@
+*{
+  font-family: "poppins", sans-serif;
+}
+
+.contactus-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.contactus-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px 30px;
+  width: 380px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 5px 25px rgba(0,0,0,0.2);
+}
+
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  margin: 15px 0;
+  gap: 15px;
+}
+
+.profile img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+p{
+ padding: 5px;
+}
+
+
+.call-btn {
+  background: #1d4ed8;
+  color: white;
+  padding: 5px 20px;
+  width: 300px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: 0.2s ease;
+}
+
+.call-btn:hover {
+  background: #2563eb;
+}

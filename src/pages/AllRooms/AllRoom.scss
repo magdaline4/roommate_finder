@@ -1,0 +1,167 @@
+.allrooms-container {
+  width: 100%;
+  min-height: 100vh;
+  background: #f8f9fa;
+}
+
+.container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Filter Box */
+.mainbox {
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 0 20px 15px 20px;
+
+
+  @media (max-width: 768px) {
+    margin: 0 8px 15px 8px;
+    padding: 8px;
+     .filters{
+    margin-left:35px;
+    margin-top: 6px;
+  }
+
+  }
+}
+
+.filters {
+        margin-top: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 8px;
+  padding: 12px;
+  justify-content: center; // center items by default
+
+  select {
+    width: 250px;
+    min-width: unset;
+    border-radius: 6px;
+    height: 32px;
+    font-size: 13px;
+    padding: 0 6px;
+  }
+
+  /* ✅ Tablet Adjustments */
+  @media (max-width: 768px) {
+    justify-content: flex-start; // better alignment
+    flex-wrap: wrap;
+
+    select {
+      width: 87px; // slightly bigger than mobile
+      height: 35px;
+      font-size: px;
+      padding: 0 5px;
+      margin-left: 6px;
+      margin-top: 5px;
+    }
+
+  }
+}
+
+/* Pills container */
+.selectedFilters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px; 
+  margin: 8px 0 15px 0;
+}
+
+/* Individual pill */
+.filterPill {
+  background-color: #cce4ff;
+  padding: 3px 8px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: #004080;
+
+  @media (max-width: 768px) {
+    font-size: 11px;
+    padding: 3px 6px;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 10px;
+    padding: 2px 5px;
+  }
+}
+
+
+
+/* ===== Grid Layout ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 320px)); /* fixed width cards */
+  gap: 65px;
+  justify-content: start;  /* align to left */
+  max-width: 100%;         /* allow full width */
+  margin: 0;               /* no auto centering */
+  margin-left: -20px;    /* small left padding */
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 8px;
+  padding: 20px 0;
+
+  li {
+    cursor: pointer;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    font-size: 14px;
+
+    &.active {
+      background-color: #007bff;
+      color: white;
+      border-color: #007bff;
+    }
+  }
+
+  .previous,
+  .next {
+    display: none !important;
+  }
+}
+
+/* ===== Animations ===== */
+@keyframes fadeSlideIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ===== Responsive Breakpoints ===== */
+
+/* Tablet */
+@media (max-width: 992px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+
+
+  .grid {
+    grid-template-columns: 1fr;
+    margin-left: 1px;
+  }
+
+  .pagination li {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+}

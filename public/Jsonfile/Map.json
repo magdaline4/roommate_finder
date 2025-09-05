@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "location": "Mumbai",
+    "src": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d15545.77480625172!2d80.2499452!3d13.0710422!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1755614416118!5m2!1sen!2sin",
+    "width": "600",
+    "height": "450",
+    "allowFullScreen": true,
+    "loading": "lazy",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  {
+    "id": 2,
+    "location": "Bengaluru",
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.03160162428!2d77.59456631527355!3d12.971598791330926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670d7d1bb0b%3A0x502e2a4ab34e5b0!2sBengaluru!5e0!3m2!1sen!2sin!4v1755614416118!5m2!1sen!2sin",
+    "width": "600",
+    "height": "450",
+    "allowFullScreen": true,
+    "loading": "lazy",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  {
+    "id": 3,
+    "location": "Chennai",
+    "src": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d497512.57746383944!2d79.87899838444034!3d13.047316854820494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1755615993446!5m2!1sen!2sin",
+    "width": "600",
+    "height": "450",
+    "allowFullScreen": true,
+    "loading": "lazy",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  {
+    "id": 4,
+    "location": "Hyderabad",
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.265539473828!2d78.48667151528742!3d17.385044988170934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb973a2c4d5c83%3A0x1b7a8c6f9a3de2c3!2sHyderabad!5e0!3m2!1sen!2sin!4v1755614416118!5m2!1sen!2sin",
+    "width": "600",
+    "height": "450",
+    "allowFullScreen": true,
+    "loading": "lazy",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  {
+    "id": 5,
+    "location": "Koramangala, Bangalore",
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.056321817103!2d77.62419381527352!3d12.935223991349444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae167a7d1bb0b%3A0x502e2a4ab34e5b1!2sKoramangala!5e0!3m2!1sen!2sin!4v1755614416118!5m2!1sen!2sin",
+    "width": "600",
+    "height": "450",
+    "allowFullScreen": true,
+    "loading": "lazy",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  {
+    "id": 6,
+    "location": "Pune",
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.865043154933!2d73.85674351528757!3d18.520430588500034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c2b1e0f5b3b1%3A0x3d4a4e5b4d5c3f5!2sPune!5e0!3m2!1sen!2sin!4v1755614416118!5m2!1sen!2sin",
+    "width": "600",
+    "height": "450",
+    "allowFullScreen": true,
+    "loading": "lazy",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  }
+]

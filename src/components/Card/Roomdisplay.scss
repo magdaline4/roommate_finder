@@ -1,0 +1,202 @@
+.container {
+  padding: 30px;
+
+  @media (max-width: 768px) {
+    // padding: 15px;
+  }
+}
+
+/* Cards Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+
+  @media (max-width: 900px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Filters */
+.filters1 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 8px;
+  padding: 12px;
+  justify-content: center; // center items by default
+
+  select,
+  .btn {
+    width: 250px;
+    min-width: unset;
+    border-radius: 6px;
+    height: 32px;
+    font-size: 13px;
+    padding: 0 6px;
+  }
+
+  /* ✅ Tablet Adjustments */
+  @media (max-width: 768px) {
+    justify-content: flex-start; // better alignment
+    flex-wrap: wrap;
+
+    select {
+      width: 87px; // slightly bigger than mobile
+      height: 35px;
+      font-size: px;
+      padding: 0 5px;
+      margin-left: 6px;
+      margin-top: 5px;
+    }
+     .btn {
+      width: 53px; // slightly bigger than mobile
+      height: 35px;
+      font-size: 12px;
+      padding: 0 5px;
+      margin-top: 5px;
+    }
+  }
+
+  /* ✅ Small Mobile */
+  @media (max-width: 480px) {
+    gap: 6px;
+    justify-content: flex-start;
+    flex-wrap: nowrap; // force single row
+    overflow-x: auto;  // horizontal scroll
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px; // space for scroll
+
+    select,
+    .btn {
+      flex: 0 0 auto; // prevent shrinking
+      width: 95px;    // compact dropdown
+      height: 28px;
+      font-size: 11px;
+      padding: 0 4px;
+    }
+
+    .btn {
+      width: 100px !important; // Search slightly wider
+      white-space: nowrap;     // prevent text wrap
+    }
+
+    // Hide scrollbar but keep scroll functionality
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    -ms-overflow-style: none; // IE/Edge
+    scrollbar-width: none;    // Firefox
+  }
+}
+
+/* Search Button */
+.btn {
+  background: #004080;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: background 0.2s ease-in-out;
+  white-space: nowrap; // ✅ prevent text wrap
+
+  &:hover {
+    background: #003060;
+  }
+}
+
+/* Rooms Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+
+  @media (max-width: 480px) {
+    grid-template-columns:  1fr;
+  }
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* View More */
+.viewMoreWrapper {
+  margin-top: 15px;
+  text-align: center;
+
+  .btn{
+    height: 30px;
+  }
+}
+
+
+
+/* Filter Box */
+.mainbox {
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 0 20px 15px 20px;
+
+  @media (max-width: 768px) {
+    margin: 0 8px 15px 8px;
+    padding: 8px;
+  }
+}
+
+/* Pills container */
+.selectedFilters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0 15px 0;
+}
+
+/* Individual pill */
+.filterPill {
+  background-color: #cce4ff;
+  padding: 3px 8px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: #004080;
+
+  @media (max-width: 768px) {
+    font-size: 11px;
+    padding: 3px 6px;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 10px;
+    padding: 2px 5px;
+  }
+}
+
+/* Clear (X) button inside pill */
+button {
+  background: #004080 !important;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 1px 5px;
+  font-size: 10px;
+  margin-left: 4px;
+  transition: background 0.2s ease-in-out;
+
+  &:hover {
+    background: #003060;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 9px;
+    padding: 1px 4px;
+  }
+}

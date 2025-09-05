@@ -1,0 +1,814 @@
+ [
+          {
+    "id": 1,
+    "price": 6000,
+    "title": "Private Room - 3BHK",
+    "gender": "Male",
+    "location": "Bengaluru",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/023/729/656/small/simple-minimalist-living-room-interior-generative-ai-photo.jpg"
+  },
+  {
+    "id": 2,
+    "price": 12000,
+    "title": "Private Room - 5BHK",
+    "gender": "Male",
+    "location": "Chennai",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max200/678303671.jpg?k=589015503c2657dd7af4386c43debc1137e854d7206219d16e5e83cbf5b28228&o=&hp=1"
+  },
+  {
+    "id": 3,
+    "price": 8000,
+    "title": "Private Room - 5BHK",
+    "gender": "Female",
+    "location": "Hyderabad",
+    "image": "https://destinationcompress.s3.ap-south-1.amazonaws.com/20013eae-a8f5-4f71-9626-2e3047cc7870.jpg"
+  },
+  {
+    "id": 4,
+    "price": 11000,
+    "title": "Private Room - 2BHK",
+    "gender": "Male",
+    "location": "Mumbai",
+    "image": "https://m.media-amazon.com/images/I/81K3sJ6x96L.jpg"
+  },
+  {
+    "id": 5,
+    "price": 16000,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Bengaluru",
+    "image": "https://t4.ftcdn.net/jpg/09/53/62/73/360_F_953627335_AJkfq4iwGu1Tj3aGz9OD8VlV3vstHZhU.jpg"
+  },
+  {
+    "id": 6,
+    "price": 10000,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Chennai",
+    "image": "https://cdn.jwplayer.com/v2/media/AZ9H7mIP/poster.jpg?width=320"
+  },
+  
+ {
+    "id": 7,
+    "price": 9000,
+    "title": "Private Room - 4BHK",
+    "gender": "Female",
+    "location": "Bengaluru",
+    "image": "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-udaivilas-udaipur/room-and-suites/premier-room/detail/udaivilas---premier-room--2.jpg?w=724&hash=15b1ce2ed6a095db966f0a4b29612d0a"
+  },
+  {
+    "id": 8,
+    "price": 7500,
+    "title": "Shared Room - 2BHK",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://www.area83.in/ElementImages/5bf8a789-2234-4321-921d-da46e0660d3b_rgallery.jpg"
+  },
+  {
+    "id": 9,
+    "price": 9500,
+    "title": "Shared Room - 3BHK",
+    "gender": "Female",
+    "location": "Chennai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpx8Jl7b_9v-oLPIYAcAXb2gO_RUP5UwWu9Q&s"
+  },
+  {
+    "id": 10,
+    "price": 15000,
+    "title": "Private Room - 4BHK",
+    "gender": "Male/Female",
+    "location": "Mumbai",
+    "image": "https://www.trimcastlehotel.com/wp-content/uploads/2023/08/image-8-1.jpg"
+  },
+  {
+    "id": 11,
+    "price": 5000,
+    "title": "Shared Room - 1BHK",
+    "gender": "Male",
+    "location": "Bengaluru",
+    "image": "https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2019/09/16191216/Contemporary-Living-Room-Easy-Functionality.jpg"
+  },
+  {
+    "id": 12,
+    "price": 13000,
+    "title": "Private Room - 5BHK",
+    "gender": "Female",
+    "location": "Hyderabad",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOCtnzTIr0XvekSC0cmBdmMbndBhwaFt8Ww&s"
+  },
+  {
+    "id": 13,
+    "price": 14500,
+    "title": "Private Room - 2BHK",
+    "gender": "Male",
+    "location": "Chennai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz68Rxu1TXy6aEgx_dtuCV_c0SWEPOtGD9QA&s"
+  },
+  {
+    "id": 14,
+    "price": 17000,
+    "title": "Private Room - 4BHK",
+    "gender": "Male/Female",
+    "location": "Mumbai",
+    "image": "https://www.theparkhotels.com/images/site-specific/hyderabad/rooms/room-and-suites-banner.jpg"
+  },
+  {
+    "id": 15,
+    "price": 9500,
+    "title": "Private Room - 3BHK",
+    "gender": "Female",
+    "location": "Bengaluru",
+    "image": "https://images.squarespace-cdn.com/content/v1/56dfd5cc9f7266ed7f04b64d/1585743751085-N2317B7K3I2YBZHPHENO/image-asset.jpeg"
+  },
+  {
+    "id": 16,
+    "price": 7000,
+    "title": "Shared Room - 2BHK",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/hbx010124amandajacobs-005-66e05129caa45.jpg?crop=1xw:0.84375xh;0,0.197xh"
+  },
+
+  {
+    "id": 17,
+    "price": 14000,
+    "title": "Private Room - 5BHK",
+    "gender": "Female",
+    "location": "Chennai",
+    "image": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3332/x_834,y_0,w_3332,h_3332,r_0,c_crop,q_80,fl_progressive/w_750,f_auto,c_fit/the-ananta-udaipur/Ananta_Udaipur_Sep22_Day_03_Golf_Suite_0315-HDR-Edit_hi2yh2"
+  },
+  {
+    "id": 18,
+    "price": 11500,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Mumbai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJsPiS3R2nQhl3W3u0nze2zOTRPTwfNr99Q&s"
+  },
+  {
+    "id": 19,
+    "price": 8000,
+    "title": "Shared Room - 1BHK",
+    "gender": "Male",
+    "location": "Bengaluru",
+    "image": "https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/2/2022/06/10183457/small-bedroom-ideas.jpg"
+  },
+  {
+    "id": 20,
+    "price": 18500,
+    "title": "Private Room - 5BHK",
+    "gender": "Male/Female",
+    "location": "Hyderabad",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPxyL9ZtpCsvmduPXnVaTYPQQTJBNlZO6M1Q&s"
+  },
+  {
+    "id": 21,
+    "price": 9800,
+    "title": "Private Room - 2BHK",
+    "gender": "Female",
+    "location": "Chennai",
+    "image": "https://www.thelalit.com/wp-content/uploads/2024/10/DeluxeRoom-A.jpg"
+  },
+  {
+    "id": 22,
+    "price": 14500,
+    "title": "Private Room - 4BHK",
+    "gender": "Male",
+    "location": "Mumbai",
+    "image": "https://wpmedia.roomsketcher.com/content/uploads/2023/07/11134340/gueast-bedroom-home-gym.jpg"
+  },
+  {
+    "id": 23,
+    "price": 7200,
+    "title": "Shared Room - 2BHK",
+    "gender": "Male",
+    "location": "Bengaluru",
+    "image": "https://img.freepik.com/free-photo/interior-modern-comfortable-hotel-room_1232-1822.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 24,
+    "price": 13500,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Hyderabad",
+    "image": "https://centuryply.com/blogimage/bedroom_1.png"
+  },
+  {
+    "id": 25,
+    "price": 8800,
+    "title": "Shared Room - 3BHK",
+    "gender": "Female",
+    "location": "Chennai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp5eAV5wOWVevcBHMZffhdvSZNatblcS_dA&s"
+  },
+  {
+    "id": 26,
+    "price": 6000,
+    "title": "Private Room - 3BHK",
+    "gender": "Male",
+    "location": "Mumbai",
+    "image": "https://assets.simplotel.com/simplotel/image/upload/x_4,y_0,w_1070,h_602,r_0,c_crop,q_90,fl_progressive/w_900,f_auto,c_fit/hablis-hotel-chennai/Studio_Bedroom_dr07gd"
+  },
+  {
+    "id": 27,
+    "price": 12000,
+    "title": "Private Room - 5BHK",
+    "gender": "Male",
+    "location": "Bengaluru",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Ye-Bf9OmDAfqsj7Hy0jLUPAafdZFmd5Wyw&s"
+  },
+  {
+    "id": 28,
+    "price": 8000,
+    "title": "Private Room - 5BHK",
+    "gender": "Female",
+    "location": "Hyderabad",
+    "image": "https://fariyas.com/wp-content/uploads/2023/10/Deluxe-king-room-B-1.jpg"
+  },
+  {
+    "id": 29,
+    "price": 11000,
+    "title": "Private Room - 2BHK",
+    "gender": "Male",
+    "location": "Chennai",
+    "image": "https://cdn.pixabay.com/photo/2014/08/11/21/40/bedroom-416062_640.jpg"
+  },
+  {
+    "id": 30,
+    "price": 16000,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Mumbai",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5cdb058a5218470008b0b00f/Nobu-Ryokan-Malibu/0x0.jpg?format=jpg&height=1009&width=2000"
+  },
+
+    {
+        "id": 31,
+        "price": 10000,
+        "title": "Private Room - 3BHK",
+        "gender": "Male/Female",
+        "location": "Bangalore",
+        "image": "https://www.xotels.com/wp-content/uploads/2022/07/Double-Room-Type-XOTELS.webp"
+    },
+    {
+        "id": 32,
+        "price": 9000,
+        "title": "Private Room - 4BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://static01.nyt.com/images/2019/03/24/travel/24trending-shophotels1/24trending-shophotels1-superJumbo.jpg"
+    },
+    {
+        "id": 33,
+        "price": 7500,
+        "title": "Shared Room - 2BHK",
+        "gender": "Male",
+        "location": "Chennai",
+        "image": "https://www.cvent.com/sites/default/files/image/2021-10/hotel%20room%20with%20beachfront%20view.jpg"
+    },
+    {
+        "id": 34,
+        "price": 9500,
+        "title": "Shared Room - 3BHK",
+        "gender": "Female",
+        "location": "Mumbai",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/oakland-california-master-bedroom-1489084768.jpg?crop=0.726xw:0.906xh;0.208xw,0.00200xh&resize=360:*"
+    },
+    {
+        "id": 35,
+        "price": 15000,
+        "title": "Private Room - 4BHK",
+        "gender": "Male/Female",
+        "location": "Bangalore",
+        "image": "https://cdn.home-designing.com/wp-content/uploads/2018/11/luxury-living-room-interiors.jpg"
+    },
+    {
+        "id": 36,
+        "price": 5000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Male",
+        "location": "Hyderabad",
+        "image": "https://d18slle4wlf9ku.cloudfront.net/www.cinnamonhotels.com-1302818674/cms/imagepool/67d3c92725330.jpg"
+    },
+    {
+        "id": 37,
+        "price": 13000,
+        "title": "Private Room - 5BHK",
+        "gender": "Female",
+        "location": "Chennai",
+        "image": "https://www.oceanhouseri.com/wp-content/uploads/2021/11/deluxe-water-views-2-520x455.jpg"
+    },
+    {
+        "id": 38,
+        "price": 14500,
+        "title": "Private Room - 2BHK",
+        "gender": "Male",
+        "location": "Mumbai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0JxgI2qCHTsxA7QPfdfjYhu9rf6CT_-1mAA&s"
+    },
+    {
+        "id": 39,
+        "price": 17000,
+        "title": "Private Room - 4BHK",
+        "gender": "Male/Female",
+        "location": "Bangalore",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b0/bd/25/adjoining-room-hotels.jpg?w=1200&h=-1&s=1"
+    },
+    {
+        "id": 40,
+        "price": 9500,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_4246/x_0,y_717,w_5000,h_2812,r_0,c_crop,q_80,fl_progressive/w_900,f_auto,c_fit/the-resort/DLG_pqmkjp"
+    },
+
+ {
+    "id": 41,
+    "price": 7000,
+    "title": "Shared Room - 2BHK",
+    "gender": "Male",
+    "location": "Chennai",
+    "image": "https://hotelcms-production.imgix.net/bowood.org/wp-content/uploads/2024/10/Bowood-Classic-Courtyard-1-web.jpg?auto=format&fit=crop&crop=faces%2Cedges&q=70"
+},
+{
+    "id": 42,
+    "price": 14000,
+    "title": "Private Room - 5BHK",
+    "gender": "Female",
+    "location": "Mumbai",
+    "image": "https://www.dromoland.ie/wp-content/uploads/2024/09/Suite-3-Full-Res-1-scaled.jpg"
+},
+{
+    "id": 43,
+    "price": 11500,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Bengaluru",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcrrBgwCMm19QlQGRnkQrWNT6P4TjgyrbsQ&s"
+},
+{
+    "id": 44,
+    "price": 8000,
+    "title": "Shared Room - 1BHK",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://www.oppeinhome.com/upload/images/ueditor/20230830/guide-to-design-luxury-bedroom-2.webp"
+},
+{
+    "id": 45,
+    "price": 18500,
+    "title": "Private Room - 5BHK",
+    "gender": "Male/Female",
+    "location": "Chennai",
+    "image": "https://www.khyberhotels.com/public/uploads/3690adafc1c7063760952ce5ee4a4346.jpg"
+},
+{
+    "id": 46,
+    "price": 9800,
+    "title": "Private Room - 2BHK",
+    "gender": "Female",
+    "location": "Mumbai",
+    "image": "https://www.xotels.com/wp-content/uploads/2022/07/Executive-Room-XOTELS.webp"
+},
+{
+    "id": 47,
+    "price": 14500,
+    "title": "Private Room - 4BHK",
+    "gender": "Male",
+    "location": "Bengaluru",
+    "image": "https://images.woodenstreet.de/image/data%2FLooks%2F3.jpg"
+},
+{
+    "id": 48,
+    "price": 7200,
+    "title": "Shared Room - 2BHK",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-rTa7xuDkStbm3SIGyoYAI7niKREoniUTA&s"
+},
+{
+    "id": 49,
+    "price": 13500,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Chennai",
+    "image": "https://t3.ftcdn.net/jpg/02/71/08/28/360_F_271082810_CtbTjpnOU3vx43ngAKqpCPUBx25udBrg.jpg"
+},
+{
+    "id": 50,
+    "price": 8800,
+    "title": "Shared Room - 3BHK",
+    "gender": "Female",
+    "location": "Mumbai",
+    "image": "https://images.oyoroomscdn.com/uploads/hotel_image/247104/medium/grxblodrfiiq.jpg"
+},
+
+    {
+        "id": 51,
+        "price": 9500,
+        "title": "Private Room - 2BHK",
+        "gender": "Male",
+        "location": "Bangalore",
+        "image": "https://www.asenseinterior.com/assets/uploads/f5aec4ccf642a0052cabdf541b421abd.webp"
+    },
+    {
+        "id": 52,
+        "price": 8000,
+        "title": "Shared Room - 3BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://assets.simplotel.com/simplotel/image/upload/x_443,y_0,w_1515,h_1515,r_0,c_crop,q_80,fl_progressive/w_750,f_auto,c_fit/ananta-spa-and-resort-pushkar/The_interiors_of_our_luxury_cottages_in_Pushkar_featuring_a_balcony,_a_comfortable_bed,_a_desk_and_a_television_6666"
+    },
+    {
+        "id": 53,
+        "price": 12000,
+        "title": "Private Room - 4BHK",
+        "gender": "Male/Female",
+        "location": "Chennai",
+        "image": "https://www.mydomaine.com/thmb/KhcOIhDFlUNcxugQvwspAreI95E=/1920x0/filters:no_upscale():strip_icc()/cocolapinescandinavianlivingroom-c602a303414341fb932f2d31e8769699.jpeg"
+    },
+    {
+        "id": 54,
+        "price": 6000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Male",
+        "location": "Mumbai",
+        "image": "https://www.fourseasons.com/alt/img-opt/~75.701.0,0000-0,0000-1600,0000-900,0000/publish/content/dam/fourseasons/images/web/PAR/PAR_2496_aspect16x9.jpg"
+    },
+    {
+        "id": 55,
+        "price": 15000,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Bangalore",
+        "image": "https://cdn.home-designing.com/wp-content/uploads/2018/11/luxury-living-room-tables.jpg"
+    },
+    {
+        "id": 56,
+        "price": 10000,
+        "title": "Private Room - 2BHK",
+        "gender": "Male/Female",
+        "location": "Hyderabad",
+        "image": "https://dlifeinteriors.com/wp-content/uploads/2020/05/Living-room-design-3bhk-flat-kochi.jpg"
+    },
+    {
+        "id": 57,
+        "price": 8500,
+        "title": "Shared Room - 4BHK",
+        "gender": "Female",
+        "location": "Chennai",
+        "image": "https://st.hzcdn.com/simgs/3eb1952406f72e55_14-5330/_.jpg"
+    },
+    {
+        "id": 58,
+        "price": 13500,
+        "title": "Private Room - 5BHK",
+        "gender": "Male",
+        "location": "Mumbai",
+        "image": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3335/x_0,y_261,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_900,f_auto,c_fit/pride-plaza-hotel-kolkata/Premium_room_1_n1mpn0"
+    },
+    {
+        "id": 59,
+        "price": 5000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Male",
+        "location": "Bangalore",
+        "image": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_3333/x_0,y_522,w_4997,h_2811,r_0,c_crop/q_80,w_455,dpr_1,f_auto,fl_progressive,c_limit/panna-vilas-palace/Deluxe_Twin_4Room_ian8bz"
+    },
+    {
+        "id": 60,
+        "price": 14000,
+        "title": "Private Room - 3BHK",
+        "gender": "Male/Female",
+        "location": "Hyderabad",
+        "image": "https://www.xotels.com/wp-content/uploads/2022/07/Luxury-room-type-XOTELS.webp"
+    },
+
+    {
+        "id": 61,
+        "price": 9000,
+        "title": "Private Room - 2BHK",
+        "gender": "Female",
+        "location": "Chennai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsTS1zrLpX06M-pAXD1EoXKfNWW9MxGoIOg&s"
+    },
+    {
+        "id": 62,
+        "price": 11000,
+        "title": "Private Room - 4BHK",
+        "gender": "Male/Female",
+        "location": "Mumbai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo77ouCapYCFpQou-uV0JbevWajPVyVqM8_Q&s"
+    },
+    {
+        "id": 63,
+        "price": 7500,
+        "title": "Shared Room - 2BHK",
+        "gender": "Male",
+        "location": "Bangalore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJOBbSQhk7cqtmoSqYn792V2EJcxgXFvIUQ&s"
+    },
+    {
+        "id": 64,
+        "price": 12500,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkenqKAhRQ9NpfDvS23KShl_7mCPRVBljyg&s"
+    },
+    {
+        "id": 65,
+        "price": 15500,
+        "title": "Private Room - 5BHK",
+        "gender": "Male",
+        "location": "Chennai",
+        "image": "https://media.istockphoto.com/id/1370825295/photo/modern-hotel-room-with-double-bed-night-tables-tv-set-and-cityscape-from-the-window.jpg?s=612x612&w=0&k=20&c=QMXz9HJVhU-8MtBYyeJxtqLz90j7r0SrR6FTWniPkgc="
+    },
+    {
+        "id": 66,
+        "price": 9500,
+        "title": "Shared Room - 4BHK",
+        "gender": "Female",
+        "location": "Mumbai",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/kips-bay-dallas-2021-bedroom-martyn-lawrence-bullard-1632328947.jpg?crop=0.716xw:1.00xh;0.143xw,0&resize=640:*"
+    },
+    {
+        "id": 67,
+        "price": 13000,
+        "title": "Private Room - 2BHK",
+        "gender": "Male/Female",
+        "location": "Bangalore",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/edc110120mumbai05-1601057871.jpg?crop=0.507xw:1.00xh;0.450xw,0&resize=980:*"
+    },
+    {
+        "id": 68,
+        "price": 7000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Male",
+        "location": "Hyderabad",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVBgilJb2vwA/v3/-1x-1.webp"
+    },
+    {
+        "id": 69,
+        "price": 14500,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Chennai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArWdUXovD8sEZsVKVA6WyJnIy0_EI1wOj9A&s"
+    },
+    {
+        "id": 70,
+        "price": 8000,
+        "title": "Shared Room - 2BHK",
+        "gender": "Male/Female",
+        "location": "Mumbai",
+        "image": "https://5.imimg.com/data5/NM/IF/GLADMIN-12769410/luxury-room.jpg"
+    },
+
+    {
+        "id": 71,
+        "price": 11500,
+        "title": "Private Room - 4BHK",
+        "gender": "Male",
+        "location": "Bangalore",
+        "image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/22/1220/DELCT-P0011-King-Guestroom.jpg/DELCT-P0011-King-Guestroom.16x9.jpg"
+    },
+    {
+        "id": 72,
+        "price": 6000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/edc100121fernandez-008-1631204495.jpg?crop=0.813xw:1.00xh;0,0&resize=1120:*"
+    },
+    {
+        "id": 73,
+        "price": 16500,
+        "title": "Private Room - 5BHK",
+        "gender": "Male/Female",
+        "location": "Chennai",
+        "image": "https://www.templebarhotel.com/wp-content/uploads/2022/09/rooms_Quad-Room2.jpg"
+    },
+    {
+        "id": 74,
+        "price": 9000,
+        "title": "Private Room - 2BHK",
+        "gender": "Male",
+        "location": "Mumbai",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/ghk110123homeopener-001-2-653697384f1b4.jpg?crop=0.668xw:1.00xh;0.173xw,0&resize=640:*"
+    },
+    {
+        "id": 75,
+        "price": 12500,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Bangalore",
+        "image": "https://fariyas.com/wp-content/uploads/2023/10/Deluxe-Twin-Master.jpg"
+    },
+    {
+        "id": 76,
+        "price": 9500,
+        "title": "Private Room - 2BHK",
+        "gender": "Male",
+        "location": "Hyderabad",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfwo_PBLGL0KSwhi4vPqZs9SJy6w2zN6Gbcw&s"
+    },
+    {
+        "id": 77,
+        "price": 8000,
+        "title": "Shared Room - 3BHK",
+        "gender": "Female",
+        "location": "Chennai",
+        "image": "https://www.landmarklondon.co.uk/wp-content/uploads/2024/06/The-Landmark-Suite-Interior1975-1-1800x1200.jpg"
+    },
+    {
+        "id": 78,
+        "price": 12000,
+        "title": "Private Room - 4BHK",
+        "gender": "Male/Female",
+        "location": "Mumbai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZCCN8GJIqiJ-jwaiqzeLFIAnZ1ozVUghJQ&s"
+    },
+    {
+        "id": 79,
+        "price": 6000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Male",
+        "location": "Bangalore",
+        "image": "https://cdn.mos.cms.futurecdn.net/H73mVvQQs96oPvDTPPWTTY.jpg"
+    },
+    {
+        "id": 80,
+        "price": 15000,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://cdn.sanity.io/images/ocl5w36p/prod5/f62d185ba922c1bf165318858258bd9135c00fb5-1280x1760.jpg?w=480&auto=format&dpr=2"
+    },
+
+        {
+    "id": 81,
+    "price": 10000,
+    "title": "Private Room - 2BHK",
+    "gender": "Male/Female",
+    "location": "Chennai",
+    "image": "https://www.templebarhotel.com/wp-content/uploads/2022/09/rooms_Quad-Room2.jpg"
+},
+{
+    "id": 82,
+    "price": 8500,
+    "title": "Shared Room - 4BHK",
+    "gender": "Female",
+    "location": "Mumbai",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwavCrmyu94a6vHcas31siYGNZOH89J7Mf_w&s"
+},
+{
+    "id": 83,
+    "price": 13500,
+    "title": "Private Room - 5BHK",
+    "gender": "Male",
+    "location": "Bangalore",
+    "image": "https://www.fourseasons.com/alt/img-opt/~75.701.0,0000-128,8750-2500,0000-1406,2500/publish/content/dam/fourseasons/images/web/PAR/PAR_3253_original.jpg"
+},
+{
+    "id": 84,
+    "price": 5000,
+    "title": "Shared Room - 1BHK",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://plus.unsplash.com/premium_photo-1661963239507-7bdf41a5e66b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG91c2UlMjByb29tfGVufDB8fDB8fHww"
+},
+{
+    "id": 85,
+    "price": 14000,
+    "title": "Private Room - 3BHK",
+    "gender": "Male/Female",
+    "location": "Chennai",
+    "image": "https://media.designcafe.com/wp-content/uploads/2021/09/27095756/bedroom-design-with-window-bay-seating.jpg"
+},
+{
+    "id": 86,
+    "price": 9000,
+    "title": "Private Room - 2BHK",
+    "gender": "Female",
+    "location": "Mumbai",
+    "image": "https://www.realsimple.com/thmb/T8b-JLyVRSFx5rL3xDKRdOOZT7I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/golden-rules-of-living-room-design-GettyImages-1311423416-6b6cbc1d35c04986aaa3c90c7e46622f.jpg"
+},
+{
+    "id": 87,
+    "price": 11000,
+    "title": "Private Room - 4BHK",
+    "gender": "Male/Female",
+    "location": "Bangalore",
+    "image": "https://cdn.mos.cms.futurecdn.net/zVPs87TA5RHN2GyiYEV6Ke.jpg"
+},
+{
+    "id": 88,
+    "price": 7500,
+    "title": "Shared Room - 2BHK",
+    "gender": "Male",
+    "location": "Hyderabad",
+    "image": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?cs=srgb&dl=pexels-fotoaibe-1571458.jpg&fm=jpg"
+},
+{
+    "id": 89,
+    "price": 12500,
+    "title": "Private Room - 3BHK",
+    "gender": "Female",
+    "location": "Chennai",
+    "image": "https://www.theparkhotels.com/images/site-specific/kolkata/rooms/rooms_banner.jpg"
+},
+{
+    "id": 90,
+    "price": 15500,
+    "title": "Private Room - 5BHK",
+    "gender": "Male",
+    "location": "Mumbai",
+    "image": "https://image-tc.galaxy.tf/wijpeg-e65snvug5s2lzfi5sir7ipp1i/rooms-suites_og-image.jpg"
+},
+
+
+    {
+        "id": 91,
+        "price": 9500,
+        "title": "Shared Room - 4BHK",
+        "gender": "Female",
+        "location": "Bangalore",
+        "image": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/450/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/rooms/grand-floridian-resort-b21/g/ba-resort-view/room-ba-g00-16x9.jpg?2024-07-30T14:41:32+00:00"
+    },
+    {
+        "id": 92,
+        "price": 13000,
+        "title": "Private Room - 2BHK",
+        "gender": "Male/Female",
+        "location": "Hyderabad",
+        "image": "https://hsrclub.in/wp-content/uploads/2023/06/DSC_4471-scaled-aspect-ratio-600-500-scaled.jpg"
+    },
+    {
+        "id": 93,
+        "price": 7000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Male",
+        "location": "Chennai",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/blue-rooms-4-1502910693.jpg?crop=1.00xw:0.625xh;0,0.0991xh&resize=980:*"
+    },
+    {
+        "id": 94,
+        "price": 14500,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Mumbai",
+        "image": "https://ramyashotels.com/wp-content/uploads/2019/11/ramyas-hotel-trichy-deluxe-room.webp"
+    },
+    {
+        "id": 95,
+        "price": 8000,
+        "title": "Shared Room - 2BHK",
+        "gender": "Male/Female",
+        "location": "Bangalore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3nlw-mafY1kFiDXdMPK5HB7UP6o8vhdeWA&s"
+    },
+    {
+        "id": 96,
+        "price": 11500,
+        "title": "Private Room - 4BHK",
+        "gender": "Male",
+        "location": "Hyderabad",
+        "image": "https://ramyashotels.com/wp-content/uploads/2025/06/ac-room-trichy.webp"
+    },
+    {
+        "id": 97,
+        "price": 6000,
+        "title": "Shared Room - 1BHK",
+        "gender": "Female",
+        "location": "Chennai",
+        "image": "https://www.landmarklondon.co.uk/wp-content/uploads/2018/01/Rooms-Suites-3-1.jpg"
+    },
+    {
+        "id": 98,
+        "price": 16500,
+        "title": "Private Room - 5BHK",
+        "gender": "Male/Female",
+        "location": "Mumbai",
+        "image": "https://cdn.sanity.io/images/ocl5w36p/prod5/f7468c349212912c16ec9b731aa1b7d664e15dc5-1280x1760.jpg?w=480&auto=format&dpr=2"
+    },
+    {
+        "id": 99,
+        "price": 9000,
+        "title": "Private Room - 2BHK",
+        "gender": "Male",
+        "location": "Bangalore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7LA654g9kjweoZ75eyBIFqiD9qJtgWw7Kg&s"
+    },
+    {
+        "id": 100,
+        "price": 12500,
+        "title": "Private Room - 3BHK",
+        "gender": "Female",
+        "location": "Hyderabad",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382618746.jpg?k=49e42e9d3d4bce27c64fe34f43db62bfe475d045da15667d90543ffec1b58471&o=&hp=1"
+    }
+
+
+    ]

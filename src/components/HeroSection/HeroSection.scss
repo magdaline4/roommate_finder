@@ -1,0 +1,104 @@
+.hero {
+  background-image: url("/src/assets/images/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  position: relative;
+  padding: 0 15px; // prevent content from touching edges on small screens
+
+  h1 {
+    position: absolute;
+    bottom: 10px;
+    color: white;
+    left: 80px;
+    padding-bottom: 35px;
+    font-size: 35px;
+  }
+}
+
+.overlay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 20px;
+
+  .search-box {
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 600px; // limit on large screens
+
+    input {
+      border: none;
+      padding: 15px;
+      outline: none;
+      flex: 1; // take available space
+      font-size: 18px;
+      color: black;
+    }
+
+    .search-btn {
+      background-color: transparent;
+      border: none;
+      padding: 15px 20px;
+      cursor: pointer;
+      font-size: 20px;
+      color: rgb(128, 128, 128);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+       border-radius: 0px !important;
+    }
+  }
+}
+
+/* ✅ Tablet */
+@media (max-width: 1024px) {
+  .hero h1 {
+    font-size: 28px;
+    left: 40px;
+  }
+
+  .overlay .search-box input {
+    font-size: 16px;
+  }
+}
+
+/* ✅ Mobile */
+@media (max-width: 768px) {
+  .hero {
+    height: 400px;
+
+    h1 {
+      font-size: 22px;
+      left: 20px;
+      padding-bottom: 20px;
+    }
+  }
+
+  .overlay {
+    gap: 15px;
+
+    .search-box {
+      flex-direction: row;
+      width: 90%; // full width on mobile
+      max-width: none;
+
+      input {
+        font-size: 14px;
+        padding: 12px;
+      }
+
+      .search-btn {
+        padding: 12px 15px;
+        font-size: 18px;
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "images": [
+      "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/450/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/rooms/grand-floridian-resort-b21/g/ba-resort-view/room-ba-g00-16x9.jpg?2024-07-30T14:41:32+00:00",
+      "https://hsrclub.in/wp-content/uploads/2023/06/DSC_4471-scaled-aspect-ratio-600-500-scaled.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/blue-rooms-4-1502910693.jpg?crop=1.00xw:0.625xh;0,0.0991xh&resize=980:*",
+      "https://ramyashotels.com/wp-content/uploads/2019/11/ramyas-hotel-trichy-deluxe-room.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3nlw-mafY1kFiDXdMPK5HB7UP6o8vhdeWA&s",
+      "https://ramyashotels.com/wp-content/uploads/2025/06/ac-room-trichy.webp"
+    ],
+    "roomDetails": {
+      "location": "Mumbai",
+      "type": "2 BHK",
+      "rent": "₹15,000",
+      "availableFrom": "2025-09-01",
+      "lookingFor": "Female"
+    },
+    "roommateDetails": {
+      "name": "Aisha",
+      "age": 25,
+      "profession": "Designer",
+      "lifestyle": "Vegetarian, early riser",
+      "phone": 7854567843,
+      "image": "/images/profile2.jpeg"
+    }
+  },
+  {
+    "images": [
+      "https://ramyashotels.com/wp-content/uploads/2019/11/ramyas-hotel-trichy-deluxe-room.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3nlw-mafY1kFiDXdMPK5HB7UP6o8vhdeWA&s",
+      "https://ramyashotels.com/wp-content/uploads/2025/06/ac-room-trichy.webp",
+      "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/450/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/rooms/grand-floridian-resort-b21/g/ba-resort-view/room-ba-g00-16x9.jpg?2024-07-30T14:41:32+00:00",
+      "https://hsrclub.in/wp-content/uploads/2023/06/DSC_4471-scaled-aspect-ratio-600-500-scaled.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/blue-rooms-4-1502910693.jpg?crop=1.00xw:0.625xh;0,0.0991xh&resize=980:*"
+    ],
+    "roomDetails": {
+      "location": "Bengaluru",
+      "type": "1 RK",
+      "rent": "₹10,500",
+      "availableFrom": "2025-08-20",
+      "lookingFor": "Any"
+    },
+    "roommateDetails": {
+      "name": "Rahul",
+      "age": 27,
+      "profession": "Engineer",
+      "lifestyle": "Non-vegetarian, gym",
+      "phone": 8954382833,
+      "image": "/images/profile1.jpeg"
+    }
+  },
+  {
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3nlw-mafY1kFiDXdMPK5HB7UP6o8vhdeWA&s",
+      "https://ramyashotels.com/wp-content/uploads/2025/06/ac-room-trichy.webp",
+      "https://hsrclub.in/wp-content/uploads/2023/06/DSC_4471-scaled-aspect-ratio-600-500-scaled.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/blue-rooms-4-1502910693.jpg?crop=1.00xw:0.625xh;0,0.0991xh&resize=980:*",
+      "https://ramyashotels.com/wp-content/uploads/2019/11/ramyas-hotel-trichy-deluxe-room.webp",
+      "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/450/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/rooms/grand-floridian-resort-b21/g/ba-resort-view/room-ba-g00-16x9.jpg?2024-07-30T14:41:32+00:00"
+    ],
+    "roomDetails": {
+      "location": "Chennai",
+      "type": "2 BHK",
+      "rent": "₹12,500",
+      "availableFrom": "2025-09-05",
+      "lookingFor": "Any"
+    },
+    "roommateDetails": {
+      "name": "Karthik",
+      "age": 26,
+      "profession": "IT Engineer",
+      "lifestyle": "Vegetarian, night owl",
+      "phone": 9957488283,
+      "image": "/images/profile3.jpeg"
+    }
+  },
+  {
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJsPiS3R2nQhl3W3u0nze2zOTRPTwfNr99Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8MeV4Gktm_iB5Axko1SehUrka3xQ9fjfGg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWLAvFoM03xRQ4nfPqGR6d9hrmIOVRxO1aw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQpR0HSLHCia4N0FYofoSOteDzeoGCwfHYw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hG0Urr92YF9rAA-F-7GlEY6s4FwNc07-vA&s",
+      "https://hips.hearstapps.com/hmg-prod/images/blue-rooms-4-1502910693.jpg?crop=1.00xw:0.625xh;0,0.0991xh&resize=980:*"
+    ],
+    "roomDetails": {
+      "location": "Hyderabad",
+      "type": "3 BHK",
+      "rent": "₹15,000",
+      "availableFrom": "2025-09-10",
+      "lookingFor": "Male or Female"
+    },
+    "roommateDetails": {
+      "name": "Suresh",
+      "age": 28,
+      "profession": "Data Analyst",
+      "lifestyle": "Non-vegetarian, early riser",
+      "phone": 9547382833,
+      "image": "/images/profile1.jpeg"
+    }
+  },
+  {
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382618746.jpg?k=49e42e9d3d4bce27c64fe34f43db62bfe475d045da15667d90543ffec1b58471&o=&hp=1",
+      "https://www.landmarklondon.co.uk/wp-content/uploads/2018/01/Rooms-Suites-3-1.jpg",
+      "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/900/450/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/rooms/grand-floridian-resort-b21/g/ba-resort-view/room-ba-g00-16x9.jpg?2024-07-30T14:41:32+00:00",
+      "https://hsrclub.in/wp-content/uploads/2023/06/DSC_4471-scaled-aspect-ratio-600-500-scaled.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/blue-rooms-4-1502910693.jpg?crop=1.00xw:0.625xh;0,0.0991xh&resize=980:*",
+      "https://ramyashotels.com/wp-content/uploads/2019/11/ramyas-hotel-trichy-deluxe-room.webp"
+    ],
+    "roomDetails": {
+      "location": "Koramangala, Bangalore",
+      "type": "1 Private Room in a 2BHK Apartment",
+      "rent": "₹12,500/month",
+      "availableFrom": "1st September 2025",
+      "lookingFor": "Female roommate"
+    },
+    "roommateDetails": {
+      "name": "Priya",
+      "age": 28,
+      "profession": "Software Engineer",
+      "lifestyle": "Vegetarian, non-smoker, friendly but values personal space"
+    }
+  }
+]
